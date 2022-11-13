@@ -1,5 +1,5 @@
 - 👋 Hi, I’m vishnu priyan
-- 👀 I’m interested in cyber sec,web devolpement,iot,blockchain.
+- 👀 I’m curious about cyber sec,web devolpement,iot,blockchain.
 - 🌱 I’m currently learning web stacks,cloud,cyber security
 - ✨ I want to give a precious value to the society✨.
 - 🥰mentored by _sibidharan_ anna
