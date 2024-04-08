@@ -1,4 +1,4 @@
-#  - 👋 Hi, I’m vishnu priyan
+#  👋 Hi, I’m vishnu priyan
 - 👀 I’m curious about cyber sec,web devolpement,iot,blockchain.
 - 🌱 I’m currently learning web stacks,cloud,cyber security
 - ✨ I want to give a precious value to the society ✨.
